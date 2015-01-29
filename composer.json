@@ -1,0 +1,26 @@
+{
+  "name": "martinsbalodis/validator-laravel",
+  "description": "Base validation service class",
+  "keywords": ["laravel","illuminate","test","tdd","testcase","phpunit"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Martins Balodis",
+      "email": "martins256@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4": {
+      "MartinsBalodis\\Validator\\": "src/"
+    }
+  },
+  "config": {
+    "preferred-install": "dist"
+  },
+  "minimum-stability": "dev"
+}
