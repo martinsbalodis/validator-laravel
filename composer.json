@@ -15,8 +15,8 @@
   "require-dev": {
   },
   "autoload": {
-    "psr-4": {
-      "MartinsBalodis\\Validator\\": "src/"
+    "psr-0": {
+      "MartinsBalodis\\Validator": "src/"
     }
   },
   "config": {
